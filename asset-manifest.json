@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Tailwind-Travel-Journal/static/css/main.31b2ca09.css",
-    "main.js": "/React-Tailwind-Travel-Journal/static/js/main.fd5859bc.js",
-    "index.html": "/React-Tailwind-Travel-Journal/index.html",
-    "main.31b2ca09.css.map": "/React-Tailwind-Travel-Journal/static/css/main.31b2ca09.css.map",
-    "main.fd5859bc.js.map": "/React-Tailwind-Travel-Journal/static/js/main.fd5859bc.js.map"
+    "main.css": "/Travel-Journal/static/css/main.31b2ca09.css",
+    "main.js": "/Travel-Journal/static/js/main.cf5ea518.js",
+    "index.html": "/Travel-Journal/index.html",
+    "main.31b2ca09.css.map": "/Travel-Journal/static/css/main.31b2ca09.css.map",
+    "main.cf5ea518.js.map": "/Travel-Journal/static/js/main.cf5ea518.js.map"
   },
   "entrypoints": [
     "static/css/main.31b2ca09.css",
-    "static/js/main.fd5859bc.js"
+    "static/js/main.cf5ea518.js"
   ]
 }
